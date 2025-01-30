@@ -1,0 +1,23 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.todo{
+    width: 400px;
+}
+.ipt{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
