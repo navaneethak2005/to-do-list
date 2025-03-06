@@ -86,3 +86,22 @@ body{
     cursor: pointer;
     border-radius: 10px;
 }
+@media (max-width: 500px){
+    .todo{
+        width:320px;
+    }
+    input{
+        height:30px;
+        width:200px;
+    }
+    .sbtn{
+        width:50px;
+        height:30px;
+        text-transform:lowercase;
+    }
+    .list-main h4{
+        padding-right:140px;
+    }
+}
+
+
