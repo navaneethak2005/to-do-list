@@ -88,7 +88,7 @@ body{
 }
 .note{
     text-align: center;
-    margin-top:225px;
+    margin-top:200px;
     color:red;
 }
 @media (max-width: 500px){
@@ -109,5 +109,4 @@ body{
         padding-right:140px;
     }
 }
-
 
